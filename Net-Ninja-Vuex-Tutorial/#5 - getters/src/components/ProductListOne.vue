@@ -17,6 +17,7 @@ export default {
       return this.$store.state.products;
     },
     // //map will take the original product array to a new array
+    // //scenario of not using store
     // saleProducts() {
     //   let saleProducts = this.$store.state.products.map((product) => {
     //     return {

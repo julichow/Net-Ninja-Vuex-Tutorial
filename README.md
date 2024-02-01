@@ -4,8 +4,8 @@ In this repository, you will use Vue.js to learn Vuex.
 
 ## Setup
 
-Run `npm install` to install packages.
-Run `npm run serve` to run the development server with hot reload at localhost:8080
+- Run `npm install` to install packages.
+- Run `npm run serve` to run the development server with hot reload at localhost:8080
 
 ## Build 
 
